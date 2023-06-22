@@ -5,4 +5,6 @@ To use this program, create a Reddit API account in order to get a client id and
 
 The global variable numOfEntries found in the tables.py files can be set to larger or smaller numbers, however creating more indexes will lead to a longer runtime.
 
+Make sure to import all necessary libraries.
+
 When ready to run, run the gui.py file to see the user interface. The user will be prompted to enter the name of the subreddit, and once received, the program will begin indexing the entries. Once completed, the user can enter queries to see the most relavent results.
